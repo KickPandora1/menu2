@@ -1,0 +1,354 @@
+pakox@Franzj_72 MINGW64 ~
+$ pwd
+/c/Users/pakox
+
+pakox@Franzj_72 MINGW64 ~
+$ cd Documents/
+
+pakox@Franzj_72 MINGW64 ~/Documents
+$ cd Sandbox_tw
+bash: cd: Sandbox_tw: No such file or directory
+
+pakox@Franzj_72 MINGW64 ~/Documents
+$ cd
+
+pakox@Franzj_72 MINGW64 ~
+$ cd Documentos
+bash: cd: Documentos: No such file or directory
+
+pakox@Franzj_72 MINGW64 ~
+$ cd Documentos/
+bash: cd: Documentos/: No such file or directory
+
+pakox@Franzj_72 MINGW64 ~
+$ cd v^V
+bash: cd: $'v\026': No such file or directory
+
+pakox@Franzj_72 MINGW64 ~
+$ cd
+
+pakox@Franzj_72 MINGW64 ~
+$ ld
+bash: ld: command not found
+
+pakox@Franzj_72 MINGW64 ~
+$ cd D
+Datos de programa/
+Documents/
+Downloads/
+
+pakox@Franzj_72 MINGW64 ~
+$ cd C
+Configuración local/
+Contacts/
+Cookies/
+curseforge/
+
+pakox@Franzj_72 MINGW64 ~
+$ cd D
+Datos de programa/
+Documents/
+Downloads/
+
+pakox@Franzj_72 MINGW64 ~
+$ cd Documents/
+
+pakox@Franzj_72 MINGW64 ~/Documents
+$ cd
+
+pakox@Franzj_72 MINGW64 ~
+$ cd /c/Users/pakox/Do
+Documents/ Downloads/
+
+pakox@Franzj_72 MINGW64 ~
+$ cd /c/Users/pakox/OneDrive/Documents/sandbox_tw/
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw
+$ mkdir menu2
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw
+$ cd menu2
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2
+$ mkdir bebidas
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2
+$ mkdir sopas
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2
+$ mkdir platillos
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2
+$ ls
+bebidas/  platillos/  sopas/
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2
+$ cd bebidas/
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2/bebidas
+$ mkdir limonada naranjada limonadarosa
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2/bebidas
+$ ls
+limonada/  limonadarosa/  naranjada/
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2/bebidas
+$ mkdir limonada/imagenes
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2/bebidas
+$ mkdir limonada/ingredientes
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2/bebidas
+$ ls limonada
+imagenes/  ingredientes/
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2/bebidas
+$ mkdir limonadarosa/ingredientes limonadarosa/imagenes
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2/bebidas
+$ ls limonadarosa/
+imagenes/  ingredientes/
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2/bebidas
+$ mkdir naranjada/ingredientes naranjada/imagenes
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2/bebidas
+$ ls naranjada/
+imagenes/  ingredientes/
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2/bebidas
+$ ls
+limonada/  limonadarosa/  naranjada/
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2/bebidas
+$ cd
+
+pakox@Franzj_72 MINGW64 ~
+$ ls
+ AppData/
+'Configuración local'@
+ Contacts/
+ Cookies@
+'Datos de programa'@
+ Documents/
+ Downloads/
+'Entorno de red'@
+ Favorites/
+ Impresoras@
+ IntelGraphicsProfiles/
+ Links/
+'Menú Inicio'@
+'Mis documentos'@
+ Music/
+ NTUSER.DAT
+ NTUSER.DAT{cd6c9e63-1c73-11ef-ab15-845cf399b2d0}.TM.blf
+ NTUSER.DAT{cd6c9e63-1c73-11ef-ab15-845cf399b2d0}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{cd6c9e63-1c73-11ef-ab15-845cf399b2d0}.TMContainer00000000000000000002.regtrans-ms
+ OneDrive/
+ Plantillas@
+ Reciente@
+'Saved Games'/
+ Searches/
+ SendTo@
+ Videos/
+ curseforge/
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ ntuser.ini
+
+pakox@Franzj_72 MINGW64 ~
+$ cd /c/Users/pakox/OneDrive/Documents/sandbox_tw/
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw
+$ cd menu2
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2
+$ ls
+bebidas/  platillos/  sopas/
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2
+$ cd sopas/
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2/sopas
+$ mkdir azteca
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2/sopas
+$ mkdir azteca/imagenes azteca/ingredientes
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2/sopas
+$ pwd
+/c/Users/pakox/OneDrive/Documents/sandbox_tw/menu2/sopas
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2/sopas
+$ mkdir pollo
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2/sopas
+$ pc azteca/* pollo/
+bash: pc: command not found
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2/sopas
+$ cp azteca/* pollo/
+cp: -r not specified; omitting directory 'azteca/imagenes'
+cp: -r not specified; omitting directory 'azteca/ingredientes'
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2/sopas
+$ cp -r azteca/* pollo/
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2/sopas
+$ ld pollo/
+bash: ld: command not found
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2/sopas
+$ ls pollo/
+imagenes/  ingredientes/
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2/sopas
+$ cd ..
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2
+$ cp -r sopas/azteca sopas/fideo
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2
+$ ls sopas/
+azteca/  fideo/  pollo/
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2
+$ rm -r sopas/fideo/
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2
+$ ls sopas/
+azteca/  pollo/
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2
+$ cp -r sopas/azteca sopas/fideo
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2
+$ ls sopas/
+azteca/  fideo/  pollo/
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2
+$ ls
+bebidas/  platillos/  sopas/
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2
+$ cd platillos/
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2/platillos
+$ mkdir arrozrojo chilesennogada molepoblano
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2/platillos
+$ ls
+arrozrojo/  chilesennogada/  molepoblano/
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2/platillos
+$ cd arrozrojo/
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2/platillos/arrozrojo
+$ mkdir ingredientes imagenes
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2/platillos/arrozrojo
+$ ls
+imagenes/  ingredientes/
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2/platillos/arrozrojo
+$ cd ..
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2/platillos
+$ ls
+arrozrojo/  chilesennogada/  molepoblano/
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2/platillos
+$ cp arrozrojo/* chilesennogada/
+cp: -r not specified; omitting directory 'arrozrojo/imagenes'
+cp: -r not specified; omitting directory 'arrozrojo/ingredientes'
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2/platillos
+$ cp -r arrozrojo/* chilesennogada/
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2/platillos
+$ cp -r arrozrojo/* molepoblano/
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2/platillos
+$ ls arrozrojo/
+imagenes/  ingredientes/
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2/platillos
+$ ls chilesennogada/
+imagenes/  ingredientes/
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2/platillos
+$ ls molepoblano/
+imagenes/  ingredientes/
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2/platillos
+$ cd ..
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2
+$ cp -r bebidas bebidas_con_piquete
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2
+$ ls
+bebidas/  bebidas_con_piquete/  platillos/  sopas/
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2
+$ ls bebidas_con_piquete/
+limonada/  limonadarosa/  naranjada/
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2
+$ mv bebidas_con_piquete/ bebidas_magicas
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2
+$ ls
+bebidas/  bebidas_magicas/  platillos/  sopas/
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2
+$ cd bebidas
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2/bebidas
+$ cd limonada
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2/bebidas/limonada
+$ ls
+imagenes/  ingredientes/
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2/bebidas/limonada
+$ cd i
+bash: cd: i: No such file or directory
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2/bebidas/limonada
+$ cd imagenes/
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2/bebidas/limonada/imagenes
+$ cd ..
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2/bebidas/limonada
+$ cd ingredientes/
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2/bebidas/limonada/ingredientes
+$ ls
+receta1.txt.txt
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2/bebidas/limonada/ingredientes
+$ ls
+receta1.txt
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2/bebidas/limonada/ingredientes
+$ nano receta2.txt
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2/bebidas/limonada/ingredientes
+$ ls
+receta1.txt  receta2.txt
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2/bebidas/limonada/ingredientes
+$ cp receta1.txt receta3.txt
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2/bebidas/limonada/ingredientes
+$ ls
+receta1.txt  receta2.txt  receta3.txt
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2/bebidas/limonada/ingredientes
+$ cat receta2.txt
+mi primera nanoreceta que es la 2
+
+pakox@Franzj_72 MINGW64 ~/OneDrive/Documents/sandbox_tw/menu2/bebidas/limonada/ingredientes
+$
